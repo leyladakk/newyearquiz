@@ -1,2 +1,1 @@
-# newyearquiz
-permalink: /quiz.html
+# newyearquiz.github.io
