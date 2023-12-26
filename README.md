@@ -1,1 +1,2 @@
 # newyearquiz
+permalink: /quiz.html
